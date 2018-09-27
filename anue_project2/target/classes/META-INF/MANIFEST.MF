@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: anue_project2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jeff
+Implementation-Vendor-Id: anue.project2
+Build-Jdk: 1.8.0_77
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Jeff
+Created-By: Maven Integration for Eclipse
+
